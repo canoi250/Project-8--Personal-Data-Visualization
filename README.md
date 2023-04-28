@@ -1,16 +1,17 @@
 # Project 8 Personal Data Visualization
 
 # Part 1: Extracting timestamps from your personal data
-Import at least one of your personal data files into a Jupyter notebook
-Parse the data into a dataframe
-Extract just the timestamps into a new dataframe
-Export that new dataframe as a .csv file (using to_csv()Links to an external site.).
-If you need more guidance, check out the instructions from the in-class activity where we did this in this Jupyter notebook Download this Jupyter notebook.
-# Part 2: Analyzing timestamp data for patterns
-Import your partner's timestamp data into a Jupyter notebook. Using Python and pandas, complete the following:
+Import at least one of your personal data files into a Jupyter notebook.
 
-Make sure the timestamp is in the datetime format (for example, by using pandas.to_datetime.Links to an external site.
-Using pandas.diff()Links to an external site., make a new column that tells you the time since between a timestamp and the previous one (for example, row 2 will have the time between the timestamp in row 2 and row 1). (TIP: Make sure your timestamps are sorted in chronological order before you do this!)
+Parse the data into a dataframe.
+
+Extract just the timestamps into a new dataframe.
+
+Export that new dataframe as a .csv file.
+
+# Part 2: Analyzing timestamp data for patterns
+
+Import your partner's timestamp data into a Jupyter notebook. Using Python and pandas, complete the following:
 
 Answer: What is the longest time between timestamps? What is the average time between timestamps?
 
@@ -20,7 +21,6 @@ Answer: What is the month with the most timestamps? How many events (timestamps)
 
 Answer: What do you think the source of this data is? Write a few sentences explaining your reasoning. What other data might help you verify if you are correct?
 Exchange your analysis with your partner. Read your partner's analysis -- does it seem accurate? Did they guess the correct data source (or type of data source)?
-For the days and months that your partner identified as having the most timestamps, try to figure out what was happening on those days. What other data might help you figure this out?
 
 # Part 3: Make a combined visualization
 Using both partners' timestamp data, make a visualization that shows the distribution of events over time for both people. For this part, use Python and Jupyter notebook, plus matplotlib/pyplot or Seaborn.
