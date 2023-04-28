@@ -17,7 +17,7 @@ Answer: What is the longest time between timestamps? What is the average time be
 
 Answer: What is the day with the most timestamps? How many events (timestamps) were on that day? 
 
-Answer: What is the month with the most timestamps? How many events (timestamps) were on that month?
+Answer: What is the month with the most timestamps? How many events (timestamps) were on that month? 
 
 Answer: What do you think the source of this data is? Write a few sentences explaining your reasoning. What other data might help you verify if you are correct?
 Exchange your analysis with your partner. Read your partner's analysis -- does it seem accurate? Did they guess the correct data source (or type of data source)?
