@@ -39,11 +39,18 @@ For this portion of the project, do not include your code or your raw data -- th
 # Instructions on running: 
 
 • Jupyter notebook 
+
 • pandas
+
 • requests
+
 • matplotlib.pyplot 
+
 • numpy
+
 • json 
+
 • collections
+
 • seaborn
 
