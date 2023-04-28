@@ -35,3 +35,15 @@ At least one form of data manipulation (calculating new values, doing a groupby,
 At least one visualization (you can use any tool you like: Observable, Seaborn, Flourish, etc.)
 
 For this portion of the project, do not include your code or your raw data -- that is personal and you can keep it private! You just need to include your results (i.e. findings from your analysis) and your visualization.
+
+# Instructions on running: 
+
+• Jupyter notebook 
+• pandas
+• requests
+• matplotlib.pyplot 
+• numpy
+• json 
+• collections
+• seaborn
+
