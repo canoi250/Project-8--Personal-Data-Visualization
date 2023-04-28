@@ -27,6 +27,7 @@ Using both partners' timestamp data, make a visualization that shows the distrib
 
 # Part 4: Analyze and visualize an additional element from  your personal data
 The analysis includes:
+
 At least two clear questions that you ask and then answer via data analysis
 
 At least one form of data manipulation (calculating new values, doing a groupby, etc.)
